@@ -61,7 +61,7 @@ async function launchChromeWithExtension(extensionPath) {
       '--user-data-dir=' + path.join(__dirname, 'temp_chrome_profile'),
       '--start-maximized'
     ],
-    startingUrl: 'https://pxi-fusion.com/constants/guide'
+    startingUrl: 'https://math.prodigygame.com/'
   });
 
   console.log('🚀 System initialized. Process:', chrome.pid);
