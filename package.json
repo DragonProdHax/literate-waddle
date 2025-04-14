@@ -1,0 +1,21 @@
+{
+  "name": "puppeteer-ext-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "axios": "^1.8.4",
+    "chrome-launcher": "^1.1.2",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.6.1",
+    "rimraf": "^6.0.1"
+  }
+}
